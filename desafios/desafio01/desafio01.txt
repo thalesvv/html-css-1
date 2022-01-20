@@ -1,0 +1,5 @@
+Você deve criar um código HTML que use apenas parágrafos e quebra de linhas e que gere o seguinte resultado visual:
+
+
+
+IMPORTANTE: Note que a primeira contagem está separada da segunda, isso é uma característica que vimos ao decorrer do material de exercícios. Nada de usar vários <br> na sequência, hein?! 
